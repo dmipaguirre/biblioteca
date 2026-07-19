@@ -1,5 +1,5 @@
 def main():
-    print("Hello from biblioteca!")
+    print("Inicializando biblioteca...")
 
 
 if __name__ == "__main__":
