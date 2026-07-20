@@ -11,6 +11,7 @@ class Autor:
     Attributes:
         id: Identificador único en base de datos. None si aún no se
             ha guardado (por ejemplo, al crear un autor nuevo).
+            
         nombre: Nombre completo del autor.
     """
 
